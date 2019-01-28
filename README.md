@@ -7,3 +7,14 @@ left and right is sent to the PIC serially so that it can move closer to a ballo
 * When forward is active, the rover should know when to stop using an ultrasonic
 sensor so that the arm can pop the balloon
 * After popping a balloon, the rover continues the search to pop all 3 balloons
+
+## Tools Used
+* Raspberry Pi 3+ Model B
+* PIC18F4550
+* Dagu Rover 5 (4 motors, 4 encoders)
+* L298 H-Bdridge
+* MG995 Tower Pro Servo Motor
+* Micro Servo 99
+* HC-SR04 Ultrasonic Sensor
+* PicKit 3
+* MPLAB X IDE
