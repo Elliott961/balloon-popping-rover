@@ -18,3 +18,4 @@ sensor so that the arm can pop the balloon
 * HC-SR04 Ultrasonic Sensor
 * PicKit 3
 * MPLAB X IDE
+* SimpleCV
